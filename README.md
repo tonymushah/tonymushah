@@ -6,6 +6,7 @@ The special-eureka organization has been flagged by the way, so everything inclu
 - cbz
 - mangadex-api
 - mizuki
+
 are private.
 
 I already sent a ticket to Github, on trying to resolve the issue, but who knows when they will respond to it.
