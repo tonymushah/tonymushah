@@ -1,16 +1,19 @@
-<h1 align="center">Hi 👋, I'm Tony Mushah</h1>
-<h3 align="center">A Malagasy passionnate otaku who love programming!</h3>
+Sorry for the inconvience.
 
-- 🔭 I’m currently working on [Special Eureka](https://github.com/tonymushah/special-eureka)
+The special-eureka organization has been flagged by the way, so everything including:
+- special-eureka
+- eureka-mmanager
+- cbz
+- mangadex-api
+- mizuki
+are private.
 
-- 🌱 I’m currently learning **Rust, Tauri and SvelteKit (Bevy Engine for the future)**
+I already sent a ticket to Github, on trying to resolve the issue, but who knows when they will respond to it.
 
-- 🤝 I’m looking for help with [Special Eureka](https://github.com/tonymushah/special-eureka)
+Just in case, some backup are made for:
+- mangadex-api -> [md-api](https://github.com/tonymushah/md-api)
+- cbz -> [cbz-rs](https://github.com/tonymushah/cbz-rs)
 
-- 💬 Ask me about **Rust**
+In meantime, i will be now focusing on [velona](https://github.com/tonymushah/velona) and some bootleg Bevy Games.
 
-- ⚡ Fun fact : I read a lot of manga, and play a lot of video games (especially [Genshin Impact](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjnnsqWhOeDAxX1VEEAHcOpAuoQFnoECAgQAQ&url=https%3A%2F%2Fgenshin.hoyoverse.com%2F&usg=AOvVaw11fzIFUalm5NfGuyO5AS1q&opi=89978449)). **I hate PHP**
-
-**Note:** I am often out of touch of things that is happening on Internet, since i have a job...
-
-Edit: removed stats and tools logo because it doesn't work fine.
+Tony Mushah: May 24th 2026
